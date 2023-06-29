@@ -919,6 +919,12 @@
         "options": {
           "full_name": "gpg-suite"
         }
+      },
+      "iterm2": {
+        "version": "3.4.19",
+        "options": {
+          "full_name": "iterm2"
+        }
       }
     }
   },
