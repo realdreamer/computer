@@ -1,3 +1,4 @@
+brew "aws-cli"
 brew "ffmpeg"
 brew "gh"
 brew "hugo"
